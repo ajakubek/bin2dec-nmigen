@@ -1,0 +1,6 @@
+/__pycache__/
+/bin2dec_bmc/
+/bin2dec_cover/
+/build/
+/*.gtkw
+/*.vcd
